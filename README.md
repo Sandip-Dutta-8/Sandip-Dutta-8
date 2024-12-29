@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://react-portfolio-sandip.web.app/](https://react-portfolio-sandip.web.app/)
+- 👨‍💻 All of my projects are available at [sandip-portfolio](https://portfolio-sandip-rose.vercel.app/)
 
 - 📫 How to reach me **ayandutta2005@gmail.com**
 
