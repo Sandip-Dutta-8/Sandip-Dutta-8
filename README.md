@@ -73,9 +73,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sandip-dutta-8/sandip-dutta-8/output/snake.svg" alt="Snake animation" />
-
-###
